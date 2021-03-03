@@ -1,8 +1,8 @@
 body {
-    background-color: peru;
+    background-color:black;
 }
 body { 
-     color:black;    
+     color:white;   
 }
 
 .input1{
@@ -28,8 +28,8 @@ body {
 
 ul {
     text-align: center;
-    font-size: 40px;
-    color:rosybrown;
+    font-size: 20px;
+    color:white;
     padding:10px;
     margin-top: 0px;
     
@@ -68,7 +68,7 @@ h1 {
  .js-toDoForm {
      text-align: center;
     
-     padding: 50px;
+     padding: 30px;
  
  }
 
